@@ -1,0 +1,43 @@
+#Purple:after{
+  background-color: #9400D3;
+}
+#Purple:checked:after{
+  background-color: purple;
+} 
+#Lightblue:after{
+  background-color: lightblue;
+}
+#Lightblue:checked:after{
+  background-color: deepskyblue;
+}
+#lightgreen:after{
+  background-color: lightgreen;
+}
+#lightgreen:checked:after{
+  background-color: darkgreen;
+}
+#Darkgrey:after{
+  background-color: lightgray;
+}
+#Darkgrey:checked:after{
+  background-color: darkgray;
+}
+#snow:after{
+  background-color: snow;
+}
+#snow:checked:after{
+  background-color: beige;
+}
+#yellow:after{
+  background-color: yellow;
+}
+#yellow:checked:after{
+  background-color: #FFD700	;
+}
+#coral:after{
+  background-color: coral;
+}
+#coral:checked:after{
+  background-color: lightcoral;
+}
+
